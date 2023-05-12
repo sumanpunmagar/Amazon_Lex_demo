@@ -9,32 +9,20 @@
 </head>
 
 <body>
-    <h1><img src="img/robot.png" alt="Burger Buddy" />Burger Buddy</h1>
+    <h1><img src="img/robot.png" alt="MrGrocery" />MrGrocery</h1>
     <hr />
 
-    <h2>Franchises / Burger Types</h2>
+    <h2>Products</h2>
     <ul>
         <li>
-            <b>Best Burger</b>
+            <b>products</b>
             <ul>
-                <li>Bacon</li>
+                <li>milk</li>
                 <li>Cheese</li>
-                <li>Plain</li>
-            </ul>
-        </li>
-        <br />
-        <li>
-            <b>Burger Palace</b>
-            <ul>
-                <li>Fried Egg</li>
-                <li>Fried Green Tomatoes</li>
-                <li>Fried Pickle</li>
-            </ul>
-        </li>
-        <br />
-        <li>
-            <b>Flaming Burger</b>
-            <ul>
+                <li>ham</li>
+                <li>Egg</li>
+                <li>Green Tomatoes</li>
+                <li>Pickle</li>
                 <li>Chili</li>
                 <li>Jalapeno</li>
                 <li>Peppercorn</li>
@@ -42,11 +30,11 @@
         </li>
     </ul>
 
-    <h3>Burger Sizes (# patties)</h3>
+    <h3>Producttype</h3>
     <ul>
-        <li>Single</li>
-        <li>Double</li>
-        <li>Triple</li>
+        <li>Gluteen free</li>
+        <li>high calorie</li>
+        <li>Low calorie</li>
     </ul>
 
     <hr />
